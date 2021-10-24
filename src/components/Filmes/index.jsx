@@ -7,7 +7,6 @@ import 'glider-js/glider.min.css';
 
 import {
     Content,
-    Movies,
     Movie,
 
 } from './styled'

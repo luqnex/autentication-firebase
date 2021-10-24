@@ -62,9 +62,7 @@ export function Login() {
         e.preventDefault()
     }
 
-    console.log(user)
-
-    if (user) {
+    if (!!user) {
         return <Redirect to='/' />
     } else {
         <Redirect to='/login' />
