@@ -12,7 +12,7 @@ import {
 
 import { AuthContext } from '../../provider/auth';
 
-import { firebase, auth } from '../../services/firebase'
+import firebase, { auth } from '../../services/firebase'
 
 import Google from '../../assets/Google.png'
 import Astronauta from '../../assets/astronauta.png'

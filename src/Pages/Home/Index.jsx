@@ -3,7 +3,7 @@ import React from "react";
 import { Filmes } from "../../components/Filmes/index";
 
 import { AuthContext } from '../../provider/auth';
-import { firebase } from '../../services/firebase'
+import firebase from '../../services/firebase'
 
 import Astronauta from '../../assets/astronauta.png'
 import Logout from '../../assets/sair.png'
