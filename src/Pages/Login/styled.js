@@ -15,7 +15,6 @@ export const Container = styled.div`
     }
 `
 
-
 export const Aside = styled.aside`
     width: 60vw;
     height: 100vh;

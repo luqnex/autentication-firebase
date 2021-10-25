@@ -76,7 +76,7 @@ export function Login() {
                     <img src={Astronauta} alt="Astronauta" id="astronauta" />
                 </ContentImg>
 
-                <h3>Bem vindo a bordo meu amigo</h3>
+                <h3>Bem vindo a bordo</h3>
                 <p>apenas alguns cliques e começamos</p>
             </Aside>
             <Main>
