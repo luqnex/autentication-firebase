@@ -5,9 +5,9 @@
   Para listar os filmes foi utilizado a API do <a href="https://www.themoviedb.org/documentation/api" target="_blank"><strong>themoviedb</strong></a>
 </p>
 
-<h2 align="center">
+<!--h2 align="center">
   <img href="#" alt="Imagem do porjeto" />
-</h2>
+</h2-->
 
 <h3 align="center">
   <a href="https://autentication-firebase.herokuapp.com/" target="_blank" alt="🔗  Link para o projeto">Link para o projeto</a>
