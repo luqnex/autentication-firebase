@@ -10,5 +10,5 @@
 </h2-->
 
 <h3 align="center">
-  <a href="https://autentication-firebase.herokuapp.com/" target="_blank" alt="🔗  Link para o projeto">Link para o projeto</a>
+  <a href="https://autentication-firebase.herokuapp.com/" target="_blank" alt="Link para o projeto">🔗 Link para o projeto</a>
 </h3>  
